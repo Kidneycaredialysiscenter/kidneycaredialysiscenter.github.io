@@ -5,7 +5,6 @@ title: Publications
 
 ## 2021
 
-<h2>This table has no borders:</h2>
 <table>
   <tr>
     <td>img</td>
