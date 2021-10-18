@@ -3,10 +3,13 @@ layout: home
 title: Namaste!
 ---
 
-308 is the room of our random experiments and thoughts.
+Welcome to my homepage.
 
-**Authors:**
-[Chaitanya Kharyal](https://github.com/kharyal) and [Tanmay Kumar Sinha](https://github.com/Tanmay-Kumar-Sinha)
+
+My name is Chaitanya Kharyal. I am currently working as a software developer at [Microsoft IDC](https://www.microsoft.com/en-in/msidc/) and a part-time researcher at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), IIIT Hyderabad. My research interests include Machine Learning, Computer Vision, Robotics, Reinforcement Learning and related fields.
+
+
+I have completed my Bachelors degree from [IIIT Hyderabad](https://www.iiit.ac.in/) in Electronics and Communication Engineering. You can find the codes written by me on my [github page](https://github.com/kharyal).
 
 <!--- ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/roomno308/roomno308.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.

@@ -3,10 +3,7 @@
   url: /index
 
 - title: "Blog"
-  url: /blog/blogs
+  url: https://roomno308.github.io/blog/blogs
 
 - title: "Random Ramblings"
-  url: /RandomRamblings/randomramblings
-
-- title: "featured posts"
-  url: /featuredposts/fp
+  url: https://roomno308.github.io/RandomRamblings/randomramblings
