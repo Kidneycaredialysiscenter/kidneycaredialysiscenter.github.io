@@ -7,7 +7,7 @@ title: Publications
 
 <table>
   <tr>
-    <td>img</td>
+    <td><img src="graphics/rpvio.png"></td>
     <td>
     <a href="https://arxiv.org/abs/2103.10400">RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments</a> <br>
     Karnik Ram, Chaitanya Kharyal, Sudarshan S. Harithas, K. Madhava Krishna
