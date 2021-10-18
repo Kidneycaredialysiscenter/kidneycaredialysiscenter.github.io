@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
-title: Room no. 308
-description: The room of our random experiments
+title: Chaitanya Kharyal
+description: 
 markdown: kramdown
 kramdown:
     math_engine: katex
 google_analytics: UA-192680612-1
 
-url: "https://roomno308.github.io/" # the base hostname & protocol for your site
+url: "https://kharyal.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
