@@ -12,7 +12,7 @@ My name is Chaitanya Kharyal. I am currently working as a software developer at 
 I have completed my Bachelors degree from [IIIT Hyderabad](https://www.iiit.ac.in/) in Electronics and Communication Engineering. You can find the codes written by me on my [github page](https://github.com/kharyal).
 
 
-Here's the link to my updated [CV](https://kharyal.github.io//CV.pdf)
+Here's the link to my updated [resume](https://kharyal.github.io//CV.pdf) and my [academic CV](https://kharyal.github.io//chaitanya_CV_academic.pdf)
 
 <!--- ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/roomno308/roomno308.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
