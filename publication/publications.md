@@ -3,6 +3,24 @@ layout: home
 title: Publications
 ---
 
+## 2022
+
+<table>
+  <tr>
+    <td>
+    <img src="graphics/general-task.png" style="width:200px;height:60px;"> 
+    </td>
+    <td>
+    <b style="color:rgb(230, 74, 255)">Multi-Teacher Curriculum Design for Sparse Reward Environments</b> <br> 
+    <b>(ALA workshop '22)</b> <br>
+    <strong>Chaitanya Kharyal</strong>, Tanmay K. Sinha, Matthew E. Taylor
+    </td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
+
 ## 2021
 
 <table>
@@ -13,7 +31,7 @@ title: Publications
     <td>
     <b style="color:rgb(230, 74, 255)">RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments</b> <br> 
     <b>(Accepted in IROS'21)</b> <br>
-    Karnik Ram, Chaitanya Kharyal, Sudarshan S. Harithas, K. Madhava Krishna
+    Karnik Ram, <strong>Chaitanya Kharyal</strong>, Sudarshan S. Harithas, K. Madhava Krishna
     </td>
   </tr>
   <tr>
