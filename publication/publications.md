@@ -12,7 +12,7 @@ title: Publications
     </td>
     <td>
     <b style="color:rgb(230, 74, 255)">Spatial Relation Graph and Graph Convolutional Network for Object Goal Navigation</b> <br> 
-    <b>(Submitted to CASE'22)</b> <br>
+    <b>(CASE'22)</b> <br>
     D. A. Sasi Kiran, <strong>Chaitanya Kharyal</strong>, K. Anand , G. Kumar, N. Gireesh, S. Banerjee, R. dev Roychoudhury, M. Sridharan, B. Bhowmick, M. Krishna
     </td>
   </tr>
