@@ -8,9 +8,7 @@ Welcome to my homepage.
 
 My name is Chaitanya Kharyal. I am currently working as a software developer at [Microsoft IDC](https://www.microsoft.com/en-in/msidc/) and a part-time researcher at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), IIIT Hyderabad. My research interests include Machine Learning, Computer Vision, Robotics, Reinforcement Learning and related fields.
 
-
-I have completed my Bachelors degree from [IIIT Hyderabad](https://www.iiit.ac.in/) in Electronics and Communication Engineering. You can find the codes written by me on my [github page](https://github.com/kharyal).
-
+I hold a Bachelors degree in Electronics and Communication Engineering with an honours in Robotics from [IIIT Hyderabad](https://www.iiit.ac.in/).
 
 Here's the link to my updated (long ago) [resume](https://kharyal.github.io//CV.pdf) and my (Updated: 18-Dec-23) [academic CV](https://kharyal.github.io//academic.pdf)
 
