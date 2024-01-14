@@ -3,6 +3,24 @@ layout: home
 title: Publications
 ---
 
+## 2024
+
+<table>
+  <tr>
+    <td>
+    <a href="https://arxiv.org/abs/2401.02991"><img src="graphics/glide-rl.png" style="width:200px;height:60px;"></a> 
+    </td>
+    <td>
+    <b style="color:rgb(230, 74, 255)">GLIDE-RL: Grounded Language Instruction through DEmonstration in RL</b> <br> 
+    <b>(Extended Abstract Accepted in AAMAS'24)</b> <br>
+    <strong>Chaitanya Kharyal</strong>, Sai Krishna Gottipati, Tanmay Kumar Sinha, Srijita Das, Matthew E. Taylor
+    </td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
+
 ## 2022
 
 <table>
