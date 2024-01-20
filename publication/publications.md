@@ -50,7 +50,7 @@ title: Publications
     </td>
     <td>
     <b style="color:rgb(230, 74, 255)">Multi-Teacher Curriculum Design for Sparse Reward Environments</b> <br> 
-    <b>(ALA workshop '22)</b> <br>
+    <b>(ALA workshop At AAMAS'22)</b> <br>
     <strong>Chaitanya Kharyal</strong>, Tanmay K. Sinha, Matthew E. Taylor
     </td>
   </tr>
