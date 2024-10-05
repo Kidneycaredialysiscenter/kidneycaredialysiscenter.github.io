@@ -9,10 +9,7 @@ I am currently pursuing an MSc (Thesis) in Computing Science at the [University 
 
 I completed my Bachelor's degree in Electronics and Communication Engineering, with an Honors in Robotics, from [IIIT Hyderabad](https://www.iiit.ac.in/). During my undergraduate studies, I worked as a researcher at the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad.
 
-You can find my code on my [Github page](https://github.com/kharyal).
-
-
-Here's the link to my updated [resume](https://kharyal.github.io//CV.pdf) and my [academic CV](https://kharyal.github.io//academic.pdf)
+Here's the link to my updated (long ago) [resume](https://kharyal.github.io//CV.pdf) and my (Updated: 18-Dec-23) [academic CV](https://kharyal.github.io//academic.pdf)
 
 
 #### Current Research
