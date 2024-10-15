@@ -36,7 +36,7 @@ title: Publications
   </tr>
   <tr>
     <td>
-    <img src="graphics/case22.png" style="width:200px;height:60px;"> 
+    <a href="https://arxiv.org/abs/2208.13031"><img src="graphics/case22.png" style="width:200px;height:60px;"></a>
     </td>
     <td>
     <b style="color:rgb(230, 74, 255)">Spatial Relation Graph and Graph Convolutional Network for Object Goal Navigation</b> <br> 
