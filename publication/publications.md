@@ -6,6 +6,16 @@ title: Publications
 ## 2024
 
 <table>
+<tr>
+    <td>
+    <img src="graphics/DRL22.png" style="width:200px;height:60px;"> 
+    </td>
+    <td>
+    <b style="color:rgb(230, 74, 255)">Do As You Teach: A Multi-Teacher Approach to Self-Play in Deep Reinforcement Learning</b> <br> 
+    <b>(NCAA & NeurIPS'22 DRL workshop)</b> <br>
+    <strong>Chaitanya Kharyal</strong>, Tanmay Kumar Sinha, SaiKrishna Gottipati, Srijita Das, Matthew E. Taylor
+    </td>
+  </tr>
   <tr>
     <td>
     <a href="https://arxiv.org/abs/2401.02991"><img src="graphics/glide-rl.png" style="width:200px;height:60px;"></a> 
@@ -24,16 +34,6 @@ title: Publications
 ## 2022
 
 <table>
-  <tr>
-    <td>
-    <img src="graphics/DRL22.png" style="width:200px;height:60px;"> 
-    </td>
-    <td>
-    <b style="color:rgb(230, 74, 255)">Do As You Teach: A Multi-Teacher Approach to Self-Play in Deep Reinforcement Learning</b> <br> 
-    <b>(NeurIPS'22 DRL workshop)</b> <br>
-    <strong>Chaitanya Kharyal</strong>, Tanmay Kumar Sinha, SaiKrishna Gottipati, Srijita Das, Matthew E. Taylor
-    </td>
-  </tr>
   <tr>
     <td>
     <a href="https://arxiv.org/abs/2208.13031"><img src="graphics/case22.png" style="width:200px;height:60px;"></a>
