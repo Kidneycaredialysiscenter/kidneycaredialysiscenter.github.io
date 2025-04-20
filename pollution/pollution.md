@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Publications
+layout: home
+title: Pollution
 ---
 
 | Date    | Savings |
