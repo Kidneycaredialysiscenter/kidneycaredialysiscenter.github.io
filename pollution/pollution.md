@@ -3,6 +3,6 @@ layout: home
 title: Pollution
 ---
 
-| Date    | Savings |
+| Date    | Reading |
 | -------- | ------- |
 | 20-Apr-25  | 10    |
