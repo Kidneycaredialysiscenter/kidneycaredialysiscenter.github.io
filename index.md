@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to Kidney Care Dialysis Center
+title: Dialysis Center
 ---
 
-Namaste!
+<img src="graphics/img1.jpeg" style="width:200px;height:60px;">
