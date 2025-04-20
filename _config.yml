@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Chaitanya Kharyal
+title: Kidney Care Dialysis Center
 logo: assets/img/logo.jpeg
 description: 
 markdown: kramdown
@@ -7,6 +7,6 @@ kramdown:
     math_engine: katex
 google_analytics: UA-192680612-1
 
-url: "https://kharyal.github.io/" # the base hostname & protocol for your site
+url: "https://kidneycaredialysiscenter.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap

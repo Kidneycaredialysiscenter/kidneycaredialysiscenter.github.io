@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Namaste!
+title: Welcome to Kidney Care Dialysis Center
 ---
